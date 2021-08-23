@@ -11,7 +11,7 @@
 3. 숫자 리스트
 ---
 
-```c
+```
 <html>
 <head>
 <title></title>
