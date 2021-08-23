@@ -22,9 +22,9 @@
 포트폴리오(http://lovertvtest.dothome.co.kr/portfolio)
 ---
 # [Project]
-[x] HTML & CSS
-[x] Javascript
-[ ] Jquery
-[x] Vue.js
-[x] Scss
-[x] Database
+- [x] HTML & CSS
+- [x] Javascript
+- [ ] Jquery
+- [x] Vue.js
+- [x] Scss
+- [x] Database
