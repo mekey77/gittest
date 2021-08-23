@@ -1,6 +1,6 @@
 ![](https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE "mekeyace 프로젝트")
 ---
-|테스트1|<font style="color:blue">테스트2</font>|테스트3|
+|테스트1|<span style="color:blue">테스트2</span>|테스트3|
 |----|---|--|
 |1|2|3|
 |4|5|6|
