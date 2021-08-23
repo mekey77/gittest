@@ -3,10 +3,10 @@
 *프로젝트 2
 *프로젝트 3
 *프로젝트 4
-`c
+```c
 <html>
 <head>
 <title></title>
 </head>
 </html>
-`
+```
