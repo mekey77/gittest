@@ -1,1 +1,1 @@
-GIT 마이페이지 메인 부분 입니다.!!!
+#### H4, Front-end Lee Jong Hyuk!!
