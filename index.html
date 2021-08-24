@@ -5,9 +5,28 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>테스트 프로젝트</title>
-    <script src="./js/index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.0"></script>    
+    <style>
+        .inputs { width:250px; height:30px;
+        border:1px solid #ccc; border-radius: 3px;
+        text-indent: 5px;
+        }
+        .btn { 
+            width: 100px; height: 30px;
+            background-color: black;
+            color: white;
+            border: 0;
+        }
+    </style>
 </head>
 <body>
-    
+<section>
+<form method="POST">
+<input type="text" name="mid" class="inputs">
+<input type="password" name="mpass" class="inputs">
+<input type="submit" value="로그인" class="btn">
+</section>    
+</form>
 </body>
+<script src="./js/index.js"></script>
 </html>
