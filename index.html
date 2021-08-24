@@ -21,9 +21,9 @@
 </head>
 <body>
 <section>
-<form method="POST">
-<input type="text" name="mid" class="inputs">
-<input type="password" name="mpass" class="inputs">
+<form id="frm" name="frm" method="POST" enctype="application/x-www-form-urlencoded" @submit.prevent="gopage">
+<input type="text" name="mid" v-bind:id="mid" class="inputs">
+<input type="password" name="mpass" v-bind:id="mpass" class="inputs">
 <input type="submit" value="로그인" class="btn">
 </section>    
 </form>
