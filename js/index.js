@@ -2,7 +2,8 @@ let a = new Vue({
   el:"vues",
   data:{
   mid:"test",
-  mpass:""
+  mpass:"",
+  ass:"testset"
   },
   methods:{
       gopage:function(){
